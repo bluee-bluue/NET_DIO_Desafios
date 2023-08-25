@@ -1,5 +1,5 @@
 # Desafios .NET
-Desafios em HTML feitos durante a [Formação HTML Developer](https://dio.me/curso-dot-net/AFD1W2MD3BXI) pela plataforma [DIO](https://web.dio.me/home)
+Desafios em .NET feitos durante a [Formação HTML Developer](https://dio.me/curso-dot-net/AFD1W2MD3BXI) pela plataforma [DIO](https://web.dio.me/home)
 
 # 1. Sistema para um Estacionamento
 ## Descrição
